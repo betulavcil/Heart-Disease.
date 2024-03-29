@@ -9,6 +9,7 @@ You can find the datasets I used in the **datasets** folder and the analysis fil
 
 # MY STUDIES:
 
-* Example of ([EDA with HeartDisease](https://github.com/betulavcil/datascienceprojects/blob/main/analysis_folder/EDA_heartdisease.ipynb))
+* Example of [EDA with HeartDisease](https://github.com/betulavcil/datascienceprojects/blob/main/analysis_folder/EDA_heartdisease.ipynb)
+
 
 
